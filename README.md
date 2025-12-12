@@ -12,7 +12,7 @@ This repository contains all code, notebooks, and resources to reproduce the pro
 
 ## 📂 Dataset
 
-This project uses the **Financial Advice Dataset** hosted on [HuggingFace](https://huggingface.co/Akhil-Theerthala/Kuvera-PersonalFinance-V2.1).  
+This project uses the **Financial Advice Dataset** hosted on [HuggingFace](https://huggingface.co/datasets/Akhil-Theerthala/Kuvera-PersonalFinance-V2.1)  
 
 - **Description:** Contains financial queries, contexts, and advisor-style responses.  
 - **Usage:**  
